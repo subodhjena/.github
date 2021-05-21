@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/subodhjena" target="blank"><img src="https://img.shields.io/twitter/follow/subodhjena?logo=twitter&style=for-the-badge" alt="subodhjena" /></a> </p>
 
-- 🔭 I’m currently working on [Splitster, 1Place](https://splitster.app, https://1place.in)
+- 🔭 I’m currently working on [Splitster, 1Place](github.com/splitster, github.com/1place-org)
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [Splitster, 1Place](https://splitster.app, https://1place.in)
+- 👯 I’m looking to collaborate on [Splitster, 1Place](github.com/splitster, github.com/1place-org)
 
-- 👨‍💻 All of my projects are available at [https://subodhjena.com](https://subodhjena.com)
+- 👨‍💻 All of my projects are available at [subodhjena.com](subodhjena.com)
 
-- 📝 I regularly write articles on [https://dev.to/subodhjena](https://dev.to/subodhjena)
+- 📝 I regularly write articles on [dev.to/subodhjena](dev.to/subodhjena)
 
 - 💬 Ask me about **Server, Web, Mobile Development**
 
