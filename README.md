@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Server, Web, Mobile Development**
 
-- 📫 How to reach me **jenasubodh@gmail.com**
+- 📫 How to reach me **j6fuvugad@relay.firefox.com**
 
 - 📄 Know about my experiences [https://subodhjena.com](https://subodhjena.com)
 
