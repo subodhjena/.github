@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subodhjena&label=Profile%20views&color=0e75b6&style=flat" alt="subodhjena" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subodhjena" alt="subodhjena" /></a> </p>
+<h3 align="center">A full-stack software architect. Helping people build their next great app for their business. Have a great app development idea? I can help you build your next great app on mobile or web powered by the most advanced secure cloud platforms. Lets talk!</h3>
 
 <p align="left"> <a href="https://twitter.com/subodhjena" target="blank"><img src="https://img.shields.io/twitter/follow/subodhjena?logo=twitter&style=for-the-badge" alt="subodhjena" /></a> </p>
 
