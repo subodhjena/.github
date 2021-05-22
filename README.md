@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [Splitster, 1Place](github.com/splitster, github.com/1place-org)
-
 - 👨‍💻 All of my projects are available at [subodhjena.com](subodhjena.com)
 
 - 📝 I regularly write articles on [dev.to/subodhjena](dev.to/subodhjena)
