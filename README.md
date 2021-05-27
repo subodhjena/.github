@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [subodhjena.com](subodhjena.com)
 
-- 📝 I regularly write articles on [dev.to/subodhjena](dev.to/subodhjena)
-
 - 💬 Ask me about **Server, Web, Mobile Development**
 
 - 📫 How to reach me **j6fuvugad@relay.firefox.com**
