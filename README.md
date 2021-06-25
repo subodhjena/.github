@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Subodh</h1>
-<h3>A full-stack software developer. Helping people build their next great app for their business. Have a great app development idea? I can help you build your next great app on mobile or web powered by the most advanced secure cloud platforms. Lets talk!</h3>
+<h3>A full-stack software developer. Helping people build their next great app for their business. Have a great app development idea? I can help you build your next great app on mobile or web powered by the most advanced & secure cloud platforms. Lets talk!</h3>
 
 <p align="left"> <a href="https://twitter.com/subodhjena" target="blank"><img src="https://img.shields.io/twitter/follow/subodhjena?logo=twitter&style=for-the-badge" alt="subodhjena" /></a> </p>
 
