@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/subodhjena" target="blank"><img src="https://img.shields.io/twitter/follow/subodhjena?logo=twitter&style=for-the-badge" alt="subodhjena" /></a> </p>
 
-- 🔭 I’m currently working on [Splitster, Purpose](github.com/splitster, github.com/purpose-life)
+- 🔭 I’m currently working on [Splitster](github.com/splitster)
 
 - 🌱 I’m currently learning **Blockchain**
 
