@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Splitster](github.com/splitster)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AI/ML, NLP, Conversational AI/Intelligence**
 
 - 👨‍💻 All of my projects are available at [subodhjena.com](subodhjena.com)
 
